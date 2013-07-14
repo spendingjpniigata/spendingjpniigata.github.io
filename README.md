@@ -4,9 +4,11 @@ wheredoesmymoney.orgの新潟市バージョンです．
 
 http://spending.jp/ で稼働しているサイトのソースコードです。
 
-Niigata Team:
+Team for Niigata:
+
 Wataru Nagasawa(https://github.com/wata)
 Yu Nagasawa(https://github.com/YuNagasawa)
+
 
 以下、fork元の横浜バージョンに関する記載になります。
 
